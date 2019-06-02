@@ -7,7 +7,7 @@ Python scripts for mouse auto clicking.
 ## 原理说明 
 
 ### 钢琴游戏《Magic Tiles 3》
-测试的网络版 【Magic Tiles 3](http://www.bestgames.com/Magic-Tiles-3)
+测试的网络版 [Magic Tiles 3](http://www.bestgames.com/Magic-Tiles-3)
 
 ### 微信《跳一跳》
 Opencv 把截图转成灰色的时候，先把整个屏幕节出四个小条，然后拼成一个矩阵，再输入opencv
