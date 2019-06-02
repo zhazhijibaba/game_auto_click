@@ -4,15 +4,15 @@ Python scripts for mouse auto clicking.
 1. 钢琴游戏《Magic Tiles 3》，magic_tiles3_web.py
 2. 微信《跳一跳》，全自动脚本，wechat_tiaoyitiao_ai.py
 
-# 原理说明 
+## 原理说明 
 
-## 钢琴游戏《Magic Tiles 3》
+### 钢琴游戏《Magic Tiles 3》
 http://www.bestgames.com/Magic-Tiles-3
 
-## 微信《跳一跳》
+### 微信《跳一跳》
 Opencv 把截图转成灰色的时候，先把整个屏幕节出四个小条，然后拼成一个矩阵，再输入opencv
 
-# 使用教程
+## 使用教程
 
 #### 获取源码
 
