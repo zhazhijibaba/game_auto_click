@@ -9,7 +9,8 @@ Python scripts for mouse auto clicking.
 #### 钢琴游戏《Magic Tiles 3》
 测试的网络版 [Magic Tiles 3](http://www.bestgames.com/Magic-Tiles-3)
 首先，将游戏界面截屏，并且转化成为灰度图，
-<img src="./resource/magic_tiles_code.png" width="100" height="100">
+
+<img src="./resource/magic_tiles_code.png" width="25%" height="25%">
 
 #### 微信《跳一跳》
 Opencv 把截图转成灰色的时候，先把整个屏幕节出四个小条，然后拼成一个矩阵，再输入opencv
