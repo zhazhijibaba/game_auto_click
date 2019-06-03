@@ -51,6 +51,10 @@ Python scripts for mouse auto clicking.
 git clone https://github.com/zhazhijibaba/game_auto_click.git
 
 ```
+#### 手机远程控制
+
+在手机（华为）和电脑（Mac）上分别安装ApowerMirror客户端App，分别运行App将手机界面投影到电脑上，并进行远程控制。
+
 #### 运行程序
 ```
 python magic_tiles3_web.py
